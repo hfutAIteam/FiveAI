@@ -1,0 +1,5 @@
+﻿  AI.cpp
+c:\users\dell\desktop\five\fiveai\fiveai\ai.cpp(2415): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\dell\desktop\five\fiveai\fiveai\ai.cpp(2440): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FiveAI.vcxproj -> C:\Users\dell\Desktop\Five\FiveAI\Debug\FiveAI.exe
+  FiveAI.vcxproj -> C:\Users\dell\Desktop\Five\FiveAI\Debug\FiveAI.pdb (Partial PDB)
